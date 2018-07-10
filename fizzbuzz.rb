@@ -1,7 +1,7 @@
 
 def fizzbuzz(x)
   if x%5 == 0 && x%3 == 0  
-   "FizzBuzz"
+   puts "FizzBuzz"
   elsif x%5 == 0
     "Buzz"
   elsif x%3 == 0
